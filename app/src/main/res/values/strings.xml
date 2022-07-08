@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Student Board</string>
+    <string name="login">LOG IN</string>
+    <string name="usernameLogin">Username</string>
+    <string name="loginRollHint">1234567890</string>
+    <string name="passwordTv">Password</string>
+    <string name="tvInstitute">Institute</string>
+    <string name="etInstitute">CUIET</string>
+    <string name="tvSession">Session</string>
+    <string name="etSession">2021-22</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="todo">TODO</string>
+</resources>
